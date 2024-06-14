@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Data Engineer with a focus on building robust data pipelines and analytics solutions.
 - 💬 Ask me about SQL, Python, ETL processes, data Warehouse, and optimizing database performance.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
 
   
 <!-- ... (Rest of the README) ... -->
@@ -30,7 +30,6 @@
 
 <!-- ... (Rest of the README) ... -->
 
-<a href="https://www.buymeacoffee.com/ragab74" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 
